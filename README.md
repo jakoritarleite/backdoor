@@ -1,7 +1,7 @@
 # [Backdoor](https://www.google.com/search?q=backdoor) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/koritarsa)
 
 ![version](https://img.shields.io/badge/version-1.0-blue.svg?style=flat)
-![licence](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat)
+![licence](https://img.shields.io/badge/licence-GNU-blue.svg?style=flat)
 ![build](https://img.shields.io/badge/build-passing-orange.svg?style=flat)
 
 It is a simple reverse shell handler for all platforms that can run Python.
@@ -65,7 +65,7 @@ See also the list of [contributors](https://github.com/jakoritarleite/twitter-bo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
