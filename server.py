@@ -2,7 +2,6 @@
 
 import socket
 import os
-import subprocess
 from time import sleep
 
 IP = socket.gethostbyname("localhost")
